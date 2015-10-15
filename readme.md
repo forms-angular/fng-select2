@@ -1,5 +1,7 @@
 # fng-select2
 
+_*Deprecated in favour of fng-ui-select*_
+
 Plugin for forms-angular that adds select2 support.
 
 ## Usage
